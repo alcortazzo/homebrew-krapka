@@ -9,6 +9,8 @@ cask "krapka" do
 
   app "Krapka.app"
 
+  uninstall quit: "com.alcortazzo.Krapka"
+
   zap trash: [
     "~/Library/Preferences/com.alcortazzo.Krapka.plist",
   ]
