@@ -1,6 +1,6 @@
 cask "krapka" do
-  version "1.0.2"
-  sha256 "90d2f53217f8e25922273095f54d097af8bf971ede64a54cda0eb7906b2d060f"
+  version "1.0.3"
+  sha256 "f27f2ce69f128e645e511fe3166c09a082063db609bc7b8156e86729dd477d80"
   url "https://github.com/alcortazzo/Krapka/releases/download/v#{version}/Krapka.dmg", verified: "github.com/alcortazzo/Krapka/"
 
   name "Krapka"
